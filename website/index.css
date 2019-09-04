@@ -1,0 +1,25 @@
+body{
+    background: rgb(221,125,25);
+background: linear-gradient(90deg, rgba(221,125,25,1) 0%, rgba(219,15,206,1) 73%, rgba(0,101,255,1) 90%);
+}
+
+#title{
+    font-family: 'Pacifico', cursive;
+    color:white;
+    font-size: 250%
+}
+
+#button{
+    color:white;
+    
+}
+
+#followers{
+    font-family: 'Pacifico', cursive;
+    color:white;
+    font-size: 200%
+}
+
+#list{
+    color:white;
+}
